@@ -1,9 +1,9 @@
-![App Screenshot](https://github.com/muratozturk5/Mova/blob/main/Screenshots/MovaBanner.png)
+![App Screenshot](https://github.com/muratozturkdev/Mova/blob/main/Screenshots/MovaBanner.png)
 ![](https://komarev.com/ghpvc/?username=metflix&color=55acb7&style=for-the-badge&logo=Github&label=Views)
 
 # Mova Kotlin Android App
 
-<img src="https://github.com/muratozturk5/Mova/blob/main/Screenshots/logo.png" align="left"
+<img src="https://github.com/muratozturkdev/Mova/blob/main/Screenshots/logo.png" align="left"
 width="250" hspace="10" vspace="10">
    
 Mova is a TMDb mobile add that list movies and series, shows their details, you can even watch trailers, save movies to list for watch later</br></br></br></br></br></br></br></br></br></br>
@@ -11,7 +11,7 @@ Mova is a TMDb mobile add that list movies and series, shows their details, you 
 ## 📎 Releases
 ***Try latest Mova App APK in Releases Page👇***
 
-[![](https://img.shields.io/badge/Mova-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/muratozturk5/Mova/releases)
+[![](https://img.shields.io/badge/Mova-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/muratozturkdev/Mova/releases)
 
 ***Try latest Mova App in Google Play👇***
 
@@ -37,22 +37,22 @@ Mova is a TMDb mobile add that list movies and series, shows their details, you 
 
 ## 📷 Light Theme Screenshots
 
-![](https://github.com/muratozturk5/Mova/blob/main/Screenshots/1.png)
-![](https://github.com/muratozturk5/Mova/blob/main/Screenshots/2.png)
-![](https://github.com/muratozturk5/Mova/blob/main/Screenshots/3.png)
-![](https://github.com/muratozturk5/Mova/blob/main/Screenshots/4.png)
-![](https://github.com/muratozturk5/Mova/blob/main/Screenshots/5.png)
-![](https://github.com/muratozturk5/Mova/blob/main/Screenshots/6.png)
+![](https://github.com/muratozturkdev/Mova/blob/main/Screenshots/1.png)
+![](https://github.com/muratozturkdev/Mova/blob/main/Screenshots/2.png)
+![](https://github.com/muratozturkdev/Mova/blob/main/Screenshots/3.png)
+![](https://github.com/muratozturkdev/Mova/blob/main/Screenshots/4.png)
+![](https://github.com/muratozturkdev/Mova/blob/main/Screenshots/5.png)
+![](https://github.com/muratozturkdev/Mova/blob/main/Screenshots/6.png)
 
 </br>
 
 ## 📷 Dark Theme Screenshots
-![](https://github.com/muratozturk5/Mova/blob/main/Screenshots/1d.png)
-![](https://github.com/muratozturk5/Mova/blob/main/Screenshots/2d.png)
-![](https://github.com/muratozturk5/Mova/blob/main/Screenshots/3d.png)
-![](https://github.com/muratozturk5/Mova/blob/main/Screenshots/4d.png)
-![](https://github.com/muratozturk5/Mova/blob/main/Screenshots/5d.png)
-![](https://github.com/muratozturk5/Mova/blob/main/Screenshots/6d.png)
+![](https://github.com/muratozturkdev/Mova/blob/main/Screenshots/1d.png)
+![](https://github.com/muratozturkdev/Mova/blob/main/Screenshots/2d.png)
+![](https://github.com/muratozturkdev/Mova/blob/main/Screenshots/3d.png)
+![](https://github.com/muratozturkdev/Mova/blob/main/Screenshots/4d.png)
+![](https://github.com/muratozturkdev/Mova/blob/main/Screenshots/5d.png)
+![](https://github.com/muratozturkdev/Mova/blob/main/Screenshots/6d.png)
 </br>
 
 
